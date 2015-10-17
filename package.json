@@ -1,0 +1,23 @@
+{
+  "name": "add-lazy-cache",
+  "version": "0.0.0",
+  "description": "Writes `lazy-cache` browserify-friendly `utils.js` file to github repo, based on package.json dependencies.",
+  "repository": "tunnckoCore/add-lazy-cache",
+  "author": "Charlike Mike Reagent <@tunnckoCore> (http://www.tunnckocore.tk)",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard && node test.js"
+  },
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "redolent": "^1.0.6"
+  },
+  "devDependencies": {
+    "assertit": "^0.1.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": []
+}
