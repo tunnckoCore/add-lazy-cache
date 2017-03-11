@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "minimist": "^1.2.0",
-    "redolent": "^1.0.6"
+    "redolent": "^2.0.0"
   },
   "devDependencies": {
     "assertit": "^0.1.0"
